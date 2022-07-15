@@ -1,5 +1,5 @@
 {
-  "name": "NVDelano/laravel-visma",
+  "name": "nvdelano/laravel-visma",
   "description": "Laravel API helper for Visma eAccounting",
   "license": "MIT",
   "require": {
